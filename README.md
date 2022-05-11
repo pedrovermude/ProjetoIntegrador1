@@ -2,16 +2,17 @@
 Documentação Referente ao Projeto Integrador 1
 
  O tema ‘’ Sistema de Controle de Peso’’ é criar um sistema de software para calcular o índice da massa corporal (IMC).
+ 
 **Para calcular o IMC do usuário: **
 
-O usuário deverá informar a altura;
-O usuário deverá informar o peso;
-O usuário deverá informar a idade;
-O usuário deverá informar o sexo;
+O usuário deverá informar a altura.
+O usuário deverá informar o peso.
+O usuário deverá informar a idade.
+O usuário deverá informar o sexo.
 
 **O sistema deverá calcular IMC:**
 
-O sistema deverá processar a classificação do IMC calculado;
+O sistema deverá processar a classificação do IMC calculado.
 O sistema deverá mostrar os valores IMC para o usuário.
 O sistema deverá mostrar a classificação do IMC calculado;
 Fazer a Buscar das  tabelas IMC fornecidas pela  OMS
