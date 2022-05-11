@@ -5,10 +5,13 @@ Documentação Referente ao Projeto Integrador 1
  
 **Para calcular o IMC do usuário: **
 
-O usuário deverá informar a altura.
-O usuário deverá informar o peso.
-O usuário deverá informar a idade.
-O usuário deverá informar o sexo.
+O usuário deverá informar a altura;
+
+O usuário deverá informar o peso;
+
+O usuário deverá informar a idade;
+
+O usuário deverá informar o sexo;
 
 **O sistema deverá calcular IMC:**
 
